@@ -8,5 +8,5 @@
 - Initial release.
 
 
-[Unreleased]: https://github.com/a-ui/digipolis_branding_favicons/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/a-ui/digipolis_branding_favicons/compare/v1.0.0
+[Unreleased]: https://github.com/a-ui/acpaas_branding_favicons/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/a-ui/acpaas_branding_favicons/compare/v1.0.0
